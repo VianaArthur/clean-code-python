@@ -70,7 +70,10 @@ Abra o arquivo `settings.json` no VS Code e adicione as seguintes propriedades:
 
 ## Autor
 
-- **Arthur Viana** - [LinkedIn](https://www.linkedin.com/in/arthur-viana/).
+**Arthur Viana** 
+
+[![Linkedin: arthur-viana](https://img.shields.io/badge/-Arthur%20Viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-viana/)](https://www.linkedin.com/in/arthur-viana/)
+[![GitHub Arthur](https://img.shields.io/github/followers/VianaArthur?label=follow&style=social)](https://github.com/VianaArthur)
 
 ## Licença
 
