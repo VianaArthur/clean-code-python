@@ -10,6 +10,10 @@ O termo Clean Code se refere a um conjunto de boas práticas na escrita de softw
 - Configuração no VS Code (`settings.json`).
 - Aplicar os conceitos de Clean Code.
 
+**Playlist:** [Programando em Python no VS Code](https://www.wazana.dev/playlist/programando-em-python-no-vs-code).
+
+**Episódio:** [Clean Code Python](https://www.wazana.dev/player/clean-code-python/programando-em-python-no-vs-code).
+
 ## Introdução
 
 Essas instruções fornecerão uma cópia do projeto para executar em sua máquina para desenvolvimento e teste.
